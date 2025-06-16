@@ -6,4 +6,5 @@
 - [**Topic 02** - Pie Chart](#)
 - [**Topic 03** - Histogram](#)
 - [**Topic 04** - Box Plot](#)
-- [**Topic 04** - Correlation Matrix](#)
+- [**Topic 05** - Correlation Matrix](#)
+- [**Topic 06** - Scatter Chart](#)
