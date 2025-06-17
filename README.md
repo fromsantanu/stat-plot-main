@@ -1,6 +1,7 @@
 # Statistical Plotting & Visualization
 
 ## Table of Content
+- [**Topic 00** - Introduction](https://github.com/fromsantanu/stat-plot-main/blob/main/Pages/p00.md)
 - [**Topic 01** - Line Chart](https://github.com/fromsantanu/stat-plot-main/blob/main/Pages/p01.md)
 - [**Topic 02** - Bar Chart](https://github.com/fromsantanu/stat-plot-main/blob/main/Pages/p02.md)
   - [**Topic 02.01** - Bar Chart with Error Bars](https://github.com/fromsantanu/stat-plot-main/blob/main/Pages/p02-01.md)
